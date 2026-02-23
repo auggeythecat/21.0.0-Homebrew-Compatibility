@@ -204,6 +204,12 @@
         "min_version": "2.3.0"
     },
     {
+        "name": "SimpleModManager",
+        "type": "official",
+        "repo": "https://github.com/nadrino/SimpleModManager",
+        "author": "v2.1.4"
+    },
+    {
         "name": "Status Monitor Overlay",
         "type": "official",
         "repo": "https://github.com/masagrator/Status-Monitor-Overlay",
@@ -510,12 +516,6 @@
         "type": "unofficial",
         "repo": "https://www.github.com/auggeythecat/SwitchWave",
         "author": "auggiethecat"
-    },
-    {
-        "name": "SimpleModManager",
-        "type": "unofficial",
-        "repo": "https://github.com/DefenderOfHyrule/SimpleModManager",
-        "author": "DefenderOfHyrule"
     },
     {
         "name": "PowerToolsNX",
