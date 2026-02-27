@@ -126,6 +126,12 @@
         "min_version": "2.0.0"
     },
     {
+        "name": "ReverseNX-RT",
+        "type": "official",
+        "repo": "https://github.com/masagrator/ReverseNX-RT",
+        "min_version": "2.2.1"
+    },
+    {
         "name": "Neumann",
         "type": "official",
         "repo": "https://github.com/turtle-insect/Neumann/",
@@ -198,6 +204,12 @@
         "min_version": "v1.0.1"
     },
     {
+        "name": "bbloc",
+        "type": "official",
+        "repo": "https://github.com/notnotme/bbloc",
+        "min_version": "Alpha 4"
+    },
+    {
         "name": "Simple Mod Downloader",
         "type": "official",
         "repo": "https://github.com/PoloNX/SimpleModDownloader",
@@ -220,6 +232,12 @@
         "type": "official",
         "repo": "https://github.com/Mode8fx/SuDokuL",
         "min_version": "v1.43"
+    },
+    {
+        "name": "Gamecard-Installer-NX",
+        "type": "official",
+        "repo": "https://github.com/DefenderOfHyrule/Gamecard-Installer-NX",
+        "min_version": "2.0.7"
     },
     {
         "name": "Switch_90DNS_tester",
@@ -304,6 +322,13 @@
         "type": "official",
         "repo": "https://github.com/DarkMatterCore/nxdumptool",
         "min_version": "rewrite"
+    },
+    {
+        "name": "totk-unexplorered",
+        "type": "official",
+        "repo": "https://github.com/lud99/totk-unexplored/",
+        "min_version": "1.0.4"
+    
     },
     {
         "name": "JKSV",
@@ -494,17 +519,16 @@
         "author": "DefenderOfHyrule"
     },
     {
-        "name": "totk-unexplored",
-        "type": "unofficial",
-        "repo": "https://github.com/DefenderOfHyrule/totk-unexplored/",
-        "author": "DefenderOfHyrule"
-    },
-    {
         "name": "hb-appstore",
         "type": "unofficial",
         "repo": "https://github.com/DefenderOfHyrule/hb-appstore",
         "author": "DefenderOfHyrule"
     },
+    {
+        "name": "TriPlayer",
+        "type": "unofficial",
+        "repo": "https://github.com/DefenderOfHyrule/TriPlayer",
+        "authoor": "DefenderOfHyrule"
     {
         "name": "TsVitch",
         "type": "unofficial",
@@ -515,6 +539,12 @@
         "name": "SwitchWave",
         "type": "unofficial",
         "repo": "https://www.github.com/auggeythecat/SwitchWave",
+        "author": "auggiethecat"
+    },
+    {
+        "name": "vgedit",
+        "type": "unofficial",
+        "repo": "https://github.com/auggeythecat/vgedit",
         "author": "auggiethecat"
     },
     {
