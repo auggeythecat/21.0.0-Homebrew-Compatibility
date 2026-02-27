@@ -528,7 +528,8 @@
         "name": "TriPlayer",
         "type": "unofficial",
         "repo": "https://github.com/DefenderOfHyrule/TriPlayer",
-        "authoor": "DefenderOfHyrule"
+        "author": "DefenderOfHyrule"
+    },
     {
         "name": "TsVitch",
         "type": "unofficial",
