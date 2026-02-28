@@ -607,5 +607,11 @@
         "type": "unofficial",
         "repo": "https://github.com/auggeythecat/MasterVolume_recomp",
         "author": "auggiethecat"
+    },
+    {
+        "name": "JellyCar",
+        "type": "unofficial",
+        "repo": "https://github.com/Common-Leap/JellyCar",
+        "author": "CommonLeap"
     }
 ]
