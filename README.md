@@ -1,5 +1,5 @@
 # HOS 21+ Homebrew Compatibility List
-A large project that will track and hopefully update every single switch homebrew app and its compatibility with Horizon OS 21.0.0+ and Atmosphere 1.10.0+. Visit the [issues](https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/issues) and [project board](https://github.com/users/auggeythecat/projects/3). This can also be used as a master list. 
+A large project that will track and hopefully update every single switch homebrew app and its compatibility with Horizon OS 21.0.0+ and Atmosphere 1.10.0+. Visit the [issues](https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/issues) and [project board](https://github.com/users/auggeythecat/projects/3). The [wiki](https://github.com/auggeythecat/21.0.0-Homebrew-Compatibility/wiki) is intedended to be used as a master list. 
 
 Feel free to open an issue with a new app if it isn't already present. Please note that piracy related or closed source apps (Tinfoil, DBI, etc) will removed.
 Also note that currently some apps are incorrect on this tracker. If you find one that is wrong, please notify me.
