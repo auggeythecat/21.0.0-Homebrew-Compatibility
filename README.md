@@ -1,13 +1,13 @@
-# 21.0.0-Homebrew-Compatability
-A large project that will track and hopefully update every single switch homebrew app and its compatibility with atmosphere 1.10.0+. Visit the [issues](https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/issues) and [project board](https://github.com/users/auggeythecat/projects/3). This can also be used as a master list. 
+# HOS 21+ Homebrew Compatibility List
+A large project that will track and hopefully update every single switch homebrew app and its compatibility with Horizon OS 21.0.0+ and Atmosphere 1.10.0+. Visit the [issues](https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/issues) and [project board](https://github.com/users/auggeythecat/projects/3). This can also be used as a master list. 
 
-Feel free to open an issue with a new app if it isn't already present. (note: piracy related or closed source apps (tinfoil, dbi, etc) will removed) 
+Feel free to open an issue with a new app if it isn't already present. Please note that piracy related or closed source apps (Tinfoil, DBI, etc) will removed.
 Also note that currently some apps are incorrect on this tracker. If you find one that is wrong, please notify me.
 # Contributing
-1. Pick an app. Preferably one with the https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/labels/Requested label.
+1. Pick an app. Preferably one with the https://github.com/auggeythecat/21.0.0-Homebrew-Compatibility/labels/Requested label.
 2. Comment `/claim` to assign yourself to the issue.
-3. Work on it. Start a discussion on the issue, Add things to the projects folder or NOTES.md file
-4. There is currently not a good solution for finishing one. I guess just say its done and link it and the code in the issue. (diff or patch files do work)
+3. Work on it. Start a discussion on the issue, Add things to the projects folder or NOTES.md file.
+4. There is currently not a good solution for finishing one. I guess just say its done and link it and the code in the issue. Diff or patch files work.
 
 I would prefer if it was built with docker so its accessable, but its not required.
 
@@ -17,12 +17,12 @@ Command    | Alias     | Effect
 -----------|-----------|--------
 /claim     | /assign   | Assign the issue to yourself
 /unclaim   | /unassign | Remove your assignment from the issue
-/help      |           | Add https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/labels/Help%20Wanted label
-/unhelp    | /thanks   | Remove https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/labels/Help%20Wanted label
-/request   |           | Add https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/labels/Requested label
-/unrequest |           | Remove https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/labels/Requested label
-/stale     |           | Add https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/labels/Stale label
-/unhelp    |           | Remove https://github.com/auggeythecat/21.0.0-Homebrew-Compatability/labels/Stale label
+/help      |           | Add https://github.com/auggeythecat/21.0.0-Homebrew-Compatibility/labels/Help%20Wanted label
+/unhelp    | /thanks   | Remove https://github.com/auggeythecat/21.0.0-Homebrew-Compatibility/labels/Help%20Wanted label
+/request   |           | Add https://github.com/auggeythecat/21.0.0-Homebrew-Compatibility/labels/Requested label
+/unrequest |           | Remove https://github.com/auggeythecat/21.0.0-Homebrew-Compatibility/labels/Requested label
+/stale     |           | Add https://github.com/auggeythecat/21.0.0-Homebrew-Compatibility/labels/Stale label
+/unstale   |           | Remove https://github.com/auggeythecat/21.0.0-Homebrew-Compatibility/labels/Stale label
 
 ## TODO:
 uh, finish the todo section
