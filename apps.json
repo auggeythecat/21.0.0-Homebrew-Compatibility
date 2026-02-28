@@ -150,6 +150,12 @@
         "min_version": "0.3.1"
     },
     {
+        "name": "kagetsu_tohya",
+        "type": "official",
+        "repo": "https://github.com/clamintus/ONScripter-NX",
+        "min_version": "0.3.1"
+    },
+    {
         "name": "QuickNTP",
         "type": "official",
         "repo": "https://github.com/nedex/QuickNTP",
