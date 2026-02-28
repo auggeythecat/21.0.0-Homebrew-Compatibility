@@ -18,7 +18,7 @@ jobs:
         uses: actions-cool/issues-helper@v3
         with:
           actions: 'add-assignees'
-          token: ${{ secrets.COMPAT_21_0_0_PAT }}
+          token: ${{ secrets.21.0.0_compat }}
           issue-number: ${{ github.event.issue.number }}
           assignees: ${{ github.event.comment.user.login }}
 
@@ -26,13 +26,13 @@ jobs:
         uses: actions-cool/issues-helper@v3
         with:
           actions: 'delete-comment'
-          token: ${{ secrets.COMPAT_21_0_0_PAT }}
+          token: ${{ secrets.21.0.0_compat }}
           comment-id: ${{ github.event.comment.id }}
 
       - name: Check and warn about multi-assignment
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.COMPAT_21_0_0_PAT }}
+          github-token: ${{ secrets.21.0.0_compat }}
           script: |
             const issueNumber = context.payload.issue.number;
             const assignees = context.payload.issue.assignees;
