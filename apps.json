@@ -144,6 +144,12 @@
         "min_version": "v1.3.4"
     },
     {
+        "name": "Nazi Zombies: Portable",
+        "type": "official",
+        "repo": "https://github.com/nzp-team/nzportable",
+        "min_version": "2.0.0"
+    },
+    {
         "name": "Neumann",
         "type": "official",
         "repo": "https://github.com/turtle-insect/Neumann",
@@ -214,12 +220,6 @@
         "type": "official",
         "repo": "https://github.com/16BitWonder/NX-Update-Checker",
         "min_version": "v1.5.4.1"
-    },
-    {
-        "name": "Nazi Zombies: Portable",
-        "type": "official",
-        "repo": "https://github.com/nzp-team/nzportable",
-        "min_version": "2.0.0"
     },
     {
         "name": "ONScripter-NX",
@@ -366,18 +366,6 @@
         "min_version": "0.1.6"
     },
     {
-        "name": "SysDVR",
-        "type": "official",
-        "repo": "https://github.com/exelix11/SysDVR",
-        "min_version": "6.2.2"
-    },
-    {
-        "name": "SysDVR Overlay",
-        "type": "official",
-        "repo": "https://github.com/Hartie95/sysdvr-overlay",
-        "min_version": "v1.0.14"
-    },
-    {
         "name": "sys-clk",
         "type": "official",
         "repo": "https://github.com/retronx-team/sys-clk",
@@ -388,6 +376,18 @@
         "type": "official",
         "repo": "https://github.com/o0Zz/sys-con",
         "min_version": "v1.6.0"
+    },
+    {
+        "name": "SysDVR",
+        "type": "official",
+        "repo": "https://github.com/exelix11/SysDVR",
+        "min_version": "6.2.2"
+    },
+    {
+        "name": "SysDVR Overlay",
+        "type": "official",
+        "repo": "https://github.com/Hartie95/sysdvr-overlay",
+        "min_version": "v1.0.14"
     },
     {
         "name": "sys-tune",
