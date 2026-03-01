@@ -426,6 +426,12 @@
         "min_version": "0.3.1"
     },
     {
+        "name": "TsVitch",
+        "type": "official",
+        "repo": "https://github.com/giovannimirulla/TsVitch",
+        "min_version": "0.3.0"
+    },
+    {
         "name": "Turnips",
         "type": "official",
         "repo": "https://github.com/averne/Turnips",
@@ -592,12 +598,6 @@
         "type": "unofficial",
         "repo": "https://github.com/DefenderOfHyrule/TriPlayer",
         "author": "DefenderOfHyrule"
-    },
-    {
-        "name": "TsVitch",
-        "type": "official",
-        "repo": "https://github.com/giovannimirulla/TsVitch",
-        "min_version": "0.3.0"
     },
     {
         "name": "uae4all2",
