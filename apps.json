@@ -60,6 +60,12 @@
         "min_version": "#3"
     },
     {
+        "name": "Fizeau",
+        "type": "official",
+        "repo": "https://github.com/averne/Fizeau",
+        "min_version": "v2.8.2"
+    },
+    {
         "name": "FPSLocker",
         "type": "official",
         "repo": "https://github.com/masagrator/FPSLocker",
@@ -364,6 +370,12 @@
         "type": "official",
         "repo": "https://github.com/3096/switch-time",
         "min_version": "0.1.6"
+    },
+    {
+        "name": "sys-botbase",
+        "type": "official", 
+        "repo": "https://github.com/olliz0r/sys-botbase",
+        "min_version": "v2.41"
     },
     {
         "name": "sys-clk",
